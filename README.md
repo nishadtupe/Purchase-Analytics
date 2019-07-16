@@ -1,4 +1,5 @@
 # Purchase-Analytics
+<<<<<<< HEAD
 
 ## Table of Contents
 1. [Problem](README.md#problem)
@@ -201,3 +202,6 @@ For a limited time we also are making available a <a href="http://ec2-3-209-212-
 
 # Questions?
 Email us at cc@insightdataengineering.com
+=======
+Masta - Repository for insight coding challenge - July 2019 
+>>>>>>> 6e3c86f6d4ef69a499a5c4e9d3b4cd6af591a11d
